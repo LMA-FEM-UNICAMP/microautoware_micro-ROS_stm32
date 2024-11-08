@@ -11,3 +11,7 @@ repositories:
     type: git
     url: https://github.com/LMA-FEM-UNICAMP/tier4_autoware_msgs.git
     version: tier4/universe
+  autoware_auto_msgs:
+    type: git
+    url: https://github.com/tier4/autoware_auto_msgs.git
+    version: 1e8b6d234e2690c9da386f006bb60835cdccddfd
