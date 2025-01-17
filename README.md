@@ -1,7 +1,7 @@
 ![banner](.images/banner-dark-theme.png#gh-dark-mode-only)
 ![banner](.images/banner-light-theme.png#gh-light-mode-only)
 
-# MicroAutoware: Autoware Vehicle Interface with micro-ROS for STM32CubeMX/IDE
+# microautoware_micro-ROS_stm32: micro-ROS for microAutoware using STM32CubeMX/IDE
 
 This tool aims to ease the micro-ROS integration in a STM32CubeMX/IDE project as an Vehicle Interface for Autoware system.
 
